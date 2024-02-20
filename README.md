@@ -4,4 +4,6 @@ Semestr: zimowy
 Forma studiów: Stacjonarne 
 Kierunek: Informatyka stosowana 
 Grupa: 1 
-Student: Damian Rybakowksi
+Student: Damian Rybakowksi 
+zmiana zeby sprawdzic git pull
+
