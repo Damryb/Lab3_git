@@ -6,4 +6,5 @@ Kierunek: Informatyka stosowana
 Grupa: 1 
 Student: Damian Rybakowksi 
 zmiana zeby sprawdzic git pull
+sprawdzanie fetch
 
